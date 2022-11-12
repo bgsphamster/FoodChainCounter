@@ -1,0 +1,3 @@
+D:/CodeWorkspace/FoodChainCounter/cmake-build-debug/CMakeFiles/FoodChainCounter.dir
+D:/CodeWorkspace/FoodChainCounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeWorkspace/FoodChainCounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
